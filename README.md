@@ -1,1 +1,1 @@
-This is day 4 of my html journey, i have learned create form using table.
+This is my begining of stage my HTML, and i'll learn and upgrade myself in Frontend development to strengthen my technical skills.
