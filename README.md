@@ -29,9 +29,13 @@ This repository is dedicated to my **daily learning and exploration of HTML**, t
 | ... | More added daily! |
 
 🧠 Practice Method
+
 Write clean, semantic HTML
+
 Use comments for clarity
+
 Preview using Live Server or browser directly
+
 Recreate basic UI elements manually without frameworks
 
 🛠️ Tools Used
