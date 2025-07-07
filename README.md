@@ -39,7 +39,11 @@ Preview using Live Server or browser directly
 Recreate basic UI elements manually without frameworks
 
 🛠️ Tools Used
+
 HTML5
+
 Visual Studio Code
+
 Live Server Extension
+
 Chrome DevTools
